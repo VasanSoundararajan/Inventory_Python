@@ -1,0 +1,23 @@
+# Django Core
+Django>=4.2,<5.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.3.0
+
+# Database
+psycopg2-binary>=2.9.9
+
+# Redis & Celery
+redis>=5.0.0
+celery>=5.3.0
+
+# Environment & Utils
+python-decouple>=3.8
+dj-database-url>=2.1.0
+
+# Testing
+pytest>=7.4.0
+pytest-django>=4.5.0
+factory-boy>=3.3.0
+
+# Production
+gunicorn>=21.2.0
