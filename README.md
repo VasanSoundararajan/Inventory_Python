@@ -260,4 +260,4 @@ Afforo/
 
 ## License
 
-MIT License
+MIT License[https://github.com/VasanSoundararajan/Inventory_Python/blob/main/LICENSE]
